@@ -1,0 +1,31 @@
+.nav{
+    padding: 20px;
+    /* border: 2px solid orange; */
+   
+    
+}
+.btn{
+    line-height: 40px;
+}
+.logo{
+    padding: 10px;
+    font-weight: bolder;
+    font-size: 22px;
+    margin-bottom: 25px;
+}
+.flex{
+    max-width: 20%;
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    border-radius: 10px;
+    padding: 12px;
+    font-size: 18px;
+    margin-top: 15px;
+
+}
+.flex:hover{
+    cursor: pointer;
+    background-color: aqua;
+    color: white;
+}
